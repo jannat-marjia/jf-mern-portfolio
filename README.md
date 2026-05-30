@@ -1,3 +1,45 @@
+# Jannatul Ferdouse Portfolio
+
+A modern and responsive MERN Stack Developer portfolio built with Next.js and Tailwind CSS.
+
+## 🚀 Live Demo
+
+https://your-portfolio-link.vercel.app
+
+---
+
+## 📌 Features
+
+- Modern UI Design
+- Responsive Layout
+- Framer Motion Animation
+- Projects Showcase
+- Contact Form
+- WhatsApp Integration
+- Resume Download
+- Dark Theme
+
+---
+
+## 🛠️ Technologies Used
+
+- Next.js
+- React.js
+- Tailwind CSS
+- Framer Motion
+- React Icons
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/jannat-marjia/portfolio.git
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -11,6 +53,7 @@ yarn dev
 # or
 pnpm dev
 # or
+cd portfolio
 bun dev
 ```
 
